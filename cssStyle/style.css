@@ -47,7 +47,7 @@ body {
     font-size: 14px;
 }
 .main {
-    margin: 5em auto;
+    margin: 10em auto;
     background-color: var(--GREY-800);
     width: min(375px, 1440px);
     border-radius: 15px;
